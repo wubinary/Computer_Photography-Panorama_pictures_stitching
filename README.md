@@ -1,6 +1,6 @@
 # Computer-Photography_HW6_panorama_pictures_stitching
 ###### tags: `zju` `cg`
- Computer-Photography_HW6_panorama_pictures_stitching
+ [計算攝影學]Computer-Photography_HW6_panorama_pictures_stitching
  
 ## 柱狀座標轉換
 ![](https://i.imgur.com/oZqtFzH.png)
